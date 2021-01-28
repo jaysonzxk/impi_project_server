@@ -1,0 +1,12 @@
+2021-01-22 10:50:55,384 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:617] Watching for file changes with StatReloader
+2021-01-22 10:52:02,423 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:240] D:\work\impi_project\interface_app\models\result.py changed, reloading.
+2021-01-22 10:52:03,457 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:617] Watching for file changes with StatReloader
+2021-01-22 10:52:28,108 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:617] Watching for file changes with StatReloader
+2021-01-28 10:23:14,744 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:617] Watching for file changes with StatReloader
+2021-01-28 10:24:04,341 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "GET /backend/user/ HTTP/1.1" 200 75
+2021-01-28 10:25:50,672 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "GET /backend/user/ HTTP/1.1" 200 75
+2021-01-28 10:25:56,831 INFO     D:\work\impi_project\lib\site-packages\django\utils\autoreload.py[line:617] Watching for file changes with StatReloader
+2021-01-28 10:26:00,117 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "GET /backend/user/ HTTP/1.1" 200 75
+2021-01-28 10:28:14,749 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "POST /backend/user/ HTTP/1.1" 200 69
+2021-01-28 10:40:25,819 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "POST /backend/user/ HTTP/1.1" 200 69
+2021-01-28 10:40:26,826 INFO     D:\work\impi_project\lib\site-packages\django\core\servers\basehttp.py[line:157] "POST /backend/user/ HTTP/1.1" 200 69
